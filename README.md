@@ -170,7 +170,11 @@ http://localhost:5173
 
 **Sanjana Kumari**
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+Third-year B.Tech Computer Science and Engineering student at IIIT Guwahati with an interest in Full Stack Development, Data Structures & Algorithms, and building scalable web applications. Passionate about learning modern technologies and developing impactful software projects.
+
+GitHub: https://github.com/sanjana22032005-cmd
+LinkedIn: https://www.linkedin.com/in/sanjana-kumari-5585b4340/
+
 
 ---
 
